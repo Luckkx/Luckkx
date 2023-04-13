@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Estudando novas tecnologias e desenvolvendo sistemas automaticos.
 - 🎓 &nbsp; **FRONT-END** & student
-- 💼 &nbsp; Trabalhando como **BACK-END DEVELOPER** na <a href="https://https://discord.gg/uPAAQ3YhHt">LINK SYSTEM</a>
+- 💼 &nbsp; Trabalhando como **Discord.js developer** na <a href="https://https://discord.gg/uPAAQ3YhHt">LINK SYSTEM</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
